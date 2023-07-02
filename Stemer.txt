@@ -1,0 +1,30 @@
+#Stemer
+lemitization
+regular exp
+
+=============================
+ Roadmap To Learn Natural Language Processing(NLP)
+
+level 1 :text preprocessing => tokenzation , lemitization ,stopwords ,steming ,etc
+
+level 2 :level 2 text preprocessing => bag of words , onehot encoding ,TFIDF ,unigram|bigram|trigram|ngram
+
+level 3 : word2vect - 1.cbow , 2.skipgram, genism ,
+
+level 4 : solve ML usecases
+
+level 5 : get understanding of ANN (Artifical Nureal Network), loss function ,optimizer
+
+level 6 : embaded layer => word2vect DL pov
+
+level 7 : RNN , List RNN ,encoder ,decoder ,atention models
+
+level 8 : Transfarmer 
+
+level 9 : BERT
+ 
+level 8 and 9 also called hugging face 
+
+with all we use nltk , spacy , pytorch
+
+
